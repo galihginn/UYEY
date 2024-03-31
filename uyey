@@ -1944,11 +1944,6 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTSCENTER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU", beIN Sports Xtra
 https://bit.ly/3t7HM45
 
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beIN Sports Rugby
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
-https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5125/default.mpd
-
 #EXTINF:-1 group-title="SPORTSCENTER" tvg-id="daznbeinsports1.uk" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png", DAZN beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -2181,43 +2176,6 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-052/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-053/stream.mpd?p=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS MAIN EVENTS HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83450&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS PL HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83447&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS FOOTBALL HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83452&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS NEWS HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83448&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS ACTION HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83456&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS ARENA HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83455&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS CRICKET HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83454&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS F1 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83453&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS MIX HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83449&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS RACING HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83446&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORTS GOLF HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=83451&extension=ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 251 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433208&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 252 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433210&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 253 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433212&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 254 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433214&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 255 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433216&extension=ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTSCENTER", SKY SPORT 256 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:78:97:25&stream=1433218&extension=ts
-
 
 #EXTINF:-1 group-title="SPORTSCENTER" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Sports 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
