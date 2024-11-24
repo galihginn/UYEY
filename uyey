@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://thefirefox12537.github.io/streams/epg/guide.xml.gz", refresh="3600"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml", refresh="1440" max-conn="1" refresh="24"
+tvg-url="https://thefirefox12537.github.io/streams/epg/guide.xml.gz", refresh="3600"
 
 ==================================================================================================================================================
 MOVIES
